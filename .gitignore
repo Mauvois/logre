@@ -6,3 +6,7 @@ graphly
 *.yaml
 *.nq.env.example
 graphly_backup/
+
+# env examples
+.env.example
+**/.env.example
