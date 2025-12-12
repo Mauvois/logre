@@ -4,4 +4,5 @@ __pycache__
 pipenv_logre
 graphly
 *.yaml
-*.nq
+*.nq.env.example
+graphly_backup/
